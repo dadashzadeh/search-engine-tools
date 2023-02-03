@@ -11,7 +11,7 @@ translator suggestions
 translators
 
 ```
-
+</br>
 install
 </br>
 ```
@@ -23,6 +23,7 @@ pip install beautifulsoup4
 ```
 </br>
 run bing
+</br>
 ```
 python -m uvicorn bing:scrape --reload
 ```
