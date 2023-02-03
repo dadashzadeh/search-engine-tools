@@ -5,11 +5,11 @@ bing.com
 </br>
 
 ```
-bing search
+bing search serap
 bing suggestions
 Related searches keyword
 translator suggestions
-translators
+translator
 ```
 </br>
 install
