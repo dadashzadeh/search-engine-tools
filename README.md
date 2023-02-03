@@ -14,7 +14,13 @@ translators
 
 install
 </br>
+```
 pip install fastapi uvicorn[standard]
+pip install pandas
+pip install requests
+pip install translators
+pip install beautifulsoup4
+```
 </br>
 run bing
 ```
